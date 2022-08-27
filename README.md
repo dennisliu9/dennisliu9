@@ -12,7 +12,7 @@ I also like yoyos, photography, and spending the day at a museum.
 
 >At a glance: **React**, **JavaScript**, **SQL**, **Python**, **HTML5**, **CSS3**
 
-💬 **Languages:** 
+#### &nbsp;&nbsp;💬 **Languages:** 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,19 +21,19 @@ I also like yoyos, photography, and spending the day at a museum.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-📚 **Libraries:**
+#### &nbsp;&nbsp;📚 **Libraries:**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
 ![Prism.js](https://img.shields.io/badge/prism.js-7FAB14?style=for-the-badge)
 
-🌧 **Clouds:**
+#### &nbsp;&nbsp;🌧 **Clouds:**
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-🛠 **Other Tools:**
+#### &nbsp;&nbsp;🛠 **Other Tools:**
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
@@ -48,12 +48,10 @@ I also like yoyos, photography, and spending the day at a museum.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![AutoHotKey](https://img.shields.io/badge/autohotkey-334455?style=for-the-badge&logo=autohotkey&logoColor=white)
 
-
-📊 **Analytics Tools:**
+#### &nbsp;&nbsp;📊 **Analytics Tools:**
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Databricks](https://img.shields.io/badge/databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
 
 ## My Skills To Be
 
