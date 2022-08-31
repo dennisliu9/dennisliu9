@@ -6,7 +6,7 @@ I used to work in Analytics, now I write software.
 
 I'm interested in the interactions and integrations between humans and technology, particularly how digital technology shapes human understanding.
 
-I also like yoyos, photography, and spending the day at a museum.
+I also like aircraft-grade aluminum yoyos, travel photography, and spending the day at a museum.
 
 ## My Stack
 
